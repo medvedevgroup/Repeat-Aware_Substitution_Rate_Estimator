@@ -1,4 +1,5 @@
-# kmer-statas-repeat_tool
+# kmer-stats-repeat_tool
+
 The tool to estimate substitution rate based on k-spectrum
 
 
