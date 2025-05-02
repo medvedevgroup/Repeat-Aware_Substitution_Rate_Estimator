@@ -1,4 +1,4 @@
-# kmer-stats-repeat_tool
+# Mutation_rate_estimator
 
 The tool to estimate substitution rate based on k-spectrum
 
