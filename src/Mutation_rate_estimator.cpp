@@ -257,7 +257,7 @@ void print_usage() {
               << "  --k INT                           k-mer length\n"
               << "  --theta FLOAT                     Sketching parameter (default: 1.0, i.e., without sketching)\n"
               << "  --e FLOAT                         Error_bound for Newton's Method (default: 1e-5)\n"
-              << "  -h, --help                            Display this help message\n";
+              << "  -h, --help                        Display this help message\n";
 }
 
 struct Parameters {
