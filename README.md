@@ -18,6 +18,7 @@ make
 Note the executable file is located in `./Mutation_rate_estimator/`. You can use following command to check if you install the tool successfully. 
 
 ```
+./Mutation_rate_estimator -h
 ```
 
 # Usage
