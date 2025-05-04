@@ -5,6 +5,7 @@ This tool estimate substitution rate based on k-spectrum.Let $s$ be a string and
 # Requirements
 
 Linux (64 bit)
+
 C++17
 
 # installaion
